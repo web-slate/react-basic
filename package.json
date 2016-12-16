@@ -1,0 +1,21 @@
+{
+  "name": "react-boot-n",
+  "version": "1.0.0",
+  "description": "Osprey Application in Angular 1.5",
+  "main": "createServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "osprey",
+    "angular",
+    "1.5"
+  ],
+  "author": "Venkatraman",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
